@@ -3,4 +3,4 @@ Welcome to devops
 Git is source code Management tool
 Source code management tools also called version control systems
 Git is tool which is used to combine the all the developer codes
-Devops having only tools
+Devops having only toolsdd
